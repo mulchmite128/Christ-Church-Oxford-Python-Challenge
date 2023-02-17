@@ -4,7 +4,9 @@ My attempts at the Oxford Christ Church Python Challenges
 Oxford Python Projects – Christ Church
 https://www.chch.ox.ac.uk/admissions/python-challenges-page
 
+<h1>
 Challenge 1 – Can computers be used to create art?
+</h1>
 https://www.chch.ox.ac.uk/admissions/python-challenge-1-can-computers-be-used-create-art
 
 Target:

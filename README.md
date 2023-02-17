@@ -13,16 +13,16 @@ Target:
 1.	Plot a circle, using the parametric equation above.
 2.	Find the parametric equation for Fermat’s Spiral (online), and therefore plot the spiral.
 3.	Do the same for the Butterﬂy Curve.
+<br />
+I had not used the required matplotlib library before, so I had to do some experimenting before creating my first circle <br />
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/46608666/219780116-e08f3dbd-0345-4bf7-bb70-0c6f3d03dc63.png"> <br />
 
-I had not used the required matplotlib library before, so I had to do some experimenting before creating my first circle
-<img width="458" alt="image" src="https://user-images.githubusercontent.com/46608666/219780116-e08f3dbd-0345-4bf7-bb70-0c6f3d03dc63.png">
-
-However after learning the basics and having its documentation on hand I was able to plot a circle using the provided parametric equation
+However after learning the basics and having its documentation on hand I was able to plot a circle using the provided parametric equation <br />
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/46608666/219781083-45fbed48-13cb-4dba-9a74-15921b4c8205.png"> <br />
 And here is a spiral of 200000/10000 <br />
-<img width="446" alt="image" src="https://user-images.githubusercontent.com/46608666/219781331-437070fe-bfb2-4660-bf84-9ee9295f42d7.png">
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/46608666/219781331-437070fe-bfb2-4660-bf84-9ee9295f42d7.png"> <br />
 
 Then I began on the butterfly, which I thought would be significantly more difficult until I found the simple equation - the only new thing I had to do was find out how to use eulers function un num.py <br />
-<img width="408" alt="image" src="https://user-images.githubusercontent.com/46608666/219781780-f3badbe0-1552-4961-b818-90c315aa4720.png">
+<img width="408" alt="image" src="https://user-images.githubusercontent.com/46608666/219781780-f3badbe0-1552-4961-b818-90c315aa4720.png"> <br />
 <img width="241" alt="image" src="https://user-images.githubusercontent.com/46608666/219782910-f37c58e4-bc5b-402d-bd96-7104149638c0.png"> <br />
 (I used the parametric equations of course)

@@ -20,5 +20,5 @@ However after learning the basics and having its documentation on hand I was abl
 And here is a spiral of 200000/10000
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/46608666/219781331-437070fe-bfb2-4660-bf84-9ee9295f42d7.png">
 
-Then I began on the butterfly, which I thought would be significantly more difficult until I found the simple equation - the only new thing I had to do was find out how to use eulers function un num.py
+Then I began on the butterfly, which I thought would be significantly more difficult until I found the simple equation - the only new thing I had to do was find out how to use eulers function un num.py <br />
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/46608666/219781780-f3badbe0-1552-4961-b818-90c315aa4720.png">

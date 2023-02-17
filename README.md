@@ -22,3 +22,5 @@ And here is a spiral of 200000/10000 <br />
 
 Then I began on the butterfly, which I thought would be significantly more difficult until I found the simple equation - the only new thing I had to do was find out how to use eulers function un num.py <br />
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/46608666/219781780-f3badbe0-1552-4961-b818-90c315aa4720.png">
+<img width="241" alt="image" src="https://user-images.githubusercontent.com/46608666/219782910-f37c58e4-bc5b-402d-bd96-7104149638c0.png"> <br />
+(I used the parametric equations of course)
